@@ -5,5 +5,5 @@ this is added on the 5th commit.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus laoreet ultricies tellus et maximus. 
 Suspendisse ac nisi non ipsum interdum maximus. Morbi mauris eros, bibendum eget risus vitae, sodales 
-suscipit ipsum. In ac nunc odio. Suspendisse ut interdum magna. Aliquam erat volutpat. Nunc ut lorem 
-at ex consequat viverra. Nullam vel scelerisque ante, nec volutpat massa. 
+suscipit ipsum. In ac nunc odio. Suspendisse ut interdum magna. Nunc ut lorem at ex consequat viverra. 
+Nullam vel scelerisque ante, nec volutpat massa. 

@@ -3,6 +3,13 @@ this file will have lots of modifications to it
 this line will be added as the 4th commit (and modified on the 5th commit)
 this is added on the 5th commit and modified in the copied repo.
 
+## add section header to lorem ipsum
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus laoreet ultricies tellus et maximus. 
+Suspendisse ac nisi non ipsum interdum maximus. Morbi mauris eros, bibendum eget risus vitae, sodales 
+suscipit ipsum. In ac nunc odio. Suspendisse ut interdum magna. Nunc ut lorem at ex consequat viverra. 
+Nullam vel scelerisque ante, nec volutpat massa. 
+
+## another lorem ipsum section
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus laoreet ultricies tellus et maximus. 
 Suspendisse ac nisi non ipsum interdum maximus. Morbi mauris eros, bibendum eget risus vitae, sodales 
 suscipit ipsum. In ac nunc odio. Suspendisse ut interdum magna. Nunc ut lorem at ex consequat viverra. 

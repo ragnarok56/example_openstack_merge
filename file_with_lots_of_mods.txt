@@ -1,3 +1,5 @@
+# Add a comment at the top
+
 this file will have lots of modifications to it
 
 this line will be added as the 4th commit ever (and modified on the 5th commit)
@@ -7,3 +9,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus laoreet ultri
 Suspendisse ac nisi non ipsum interdum maximus. Morbi mauris eros, bibendum eget risus vitae, sodales 
 suscipit ipsum. In ac nunc odio. Suspendisse ut interdum magna. Nunc ut lorem at ex consequat viverra. 
 Nullam vel scelerisque ante, nec volutpat massa. 
+

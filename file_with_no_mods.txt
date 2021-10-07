@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 this file will never change after committed
+=======
+this file will never change after committed
+
+need to add this in our custom updates, not part of the original history
+>>>>>>> copy/master-copy
